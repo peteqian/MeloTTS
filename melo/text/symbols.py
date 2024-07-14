@@ -244,6 +244,9 @@ num_fr_tones = 1
 
 # German 
 de_symbols = [
+    "ü",
+    'ö',
+    'ä',
     "ʏ",
     "̩"
   ]

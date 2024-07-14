@@ -5,7 +5,10 @@ basetts_outputs/
 multilingual_ckpts
 basetts_outputs_package/
 build/
+checkpoints_v2/
 *.egg-info/
+venv/
+.venv/
 
 *.zip
 *.wav
